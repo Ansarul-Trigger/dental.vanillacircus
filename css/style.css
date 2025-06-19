@@ -50,8 +50,10 @@
 
     .nav a {
       text-decoration: none;
-      color: #000;
-      font-weight: 500;
+      font-size: 18px;
+      font-weight: 600;
+      color: rgb(12, 23, 31);
+      line-height: 20px;
     }
 
     .nav a.chat {
